@@ -1,5 +1,5 @@
 Curso de Git HUb
 
-platzi
+platzi - Diego Andres Villalobos
 
 2023
