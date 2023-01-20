@@ -1,7 +1,5 @@
-Curso de Git HUb
+Diego Andres Villalobos
 
-platzi - Diego Andres Villalobos
+Curso de git y github
 
 2023
-
-Hoy hablaremos de su vida y obra maestra
