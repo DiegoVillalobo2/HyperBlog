@@ -7,6 +7,6 @@ En este Curso he visto:
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Actividades del curso de Git y Github
-
+* Incluye Ejemplos
 **Este Readme.md es parte de los ejercicios implementados en el curso.**
 
