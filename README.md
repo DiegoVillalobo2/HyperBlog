@@ -8,5 +8,6 @@ En este Curso he visto:
 * El verdadero amor por las buenas practicas
 * Actividades del curso de Git y Github
 * Incluye Ejemplos
+* hola
 **Este Readme.md es parte de los ejercicios implementados en el curso.**
 
